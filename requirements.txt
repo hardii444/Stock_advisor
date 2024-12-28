@@ -1,0 +1,9 @@
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.0
+matplotlib==3.6.2
+seaborn==0.12.2
+tensorflow==2.10.0  # Replace with the appropriate version if TensorFlow is used
+keras==2.10.0       # Include only if Keras is used separately
+flask==2.2.3        # If there's a web interface or API
+streamlit==1.14.1   # If Streamlit is used for the frontend
